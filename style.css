@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #03045e;
+    margin-bottom: 4px;
+}
+
+button{
+    background-color: #03045e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+}
